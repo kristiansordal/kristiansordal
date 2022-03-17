@@ -4,7 +4,7 @@ I'm a third year mechanical engineering student at OsloMet. After my bachelor (a
 
 - 🔭 I’m currently working on my bachelor project for a client, it involves CAD, iLogic and VB.NET
 - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side.
-- 🔤 I'm experienced in C++, Python, VB.NET, iLogic, and I'm currently learning Java.
+- 🔤 I'm experienced in C++, Python, iLogic, and I'm currently learning Java.
 <!--
 **ksmanee/ksmanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
