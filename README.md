@@ -2,7 +2,7 @@
 
 I'm a Mechanical Engineering graduate from OsloMet. After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.
 
-- 🔭 I’m currently working on my bachelor project for a client, it involves CAD, iLogic and VB.NET
+- 🔭 I'm currently interning in the Methods Engineering department in DeepOcean.
 - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side.
 - 🔤 I'm experienced in C++, Python, iLogic, and I'm currently learning Java.
 
