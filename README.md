@@ -1,4 +1,4 @@
-### Hey, I'm Kristian 🤙
+### Hey, I'm Kristia 🤙
 
 I'm a Mechanical Engineering graduate from OsloMet. After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.
 
