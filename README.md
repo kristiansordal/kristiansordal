@@ -4,7 +4,7 @@ I'm a Mechanical Engineering graduate from OsloMet. After my bachelor (and a yea
 
 - 🔭 I'm currently interning in the Methods Engineering department in DeepOcean.
 - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side.
-- 🔤 I'm experienced in C++, Python, iLogic, and I'm currently learning Java.
+- 🔤 I'm experienced in C++, Python, iLogic (VB.NET), and I'm currently learning Java.
 
 
 
