@@ -1,6 +1,8 @@
 ### Hey, I'm Kristian 🤙
 
-I'm a Mechanical Engineering graduate from OsloMet. After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.
+I'm a Mechanical Engineering graduate from OsloMet. 
+
+<!--After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.-->
 
 - 🔭 I'm currently interning in the Methods Engineering department in DeepOcean.
 - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side.
