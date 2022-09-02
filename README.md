@@ -5,7 +5,7 @@ I'm a Mechanical Engineering graduate from OsloMet.
 <!--After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.-->
 
 - 🔭 I'm currently taking informatics courses at the University of Bergen, next year I'll be pursuing a masters in informatics.
-- 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side.
+<!-- - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side. -->
 - 🔤 I'm experienced in C++, Python, iLogic (VB.NET), and I'm currently learning Java. I also love LaTeX.
 
 
