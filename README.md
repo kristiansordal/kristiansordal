@@ -6,7 +6,6 @@ I'm a Mechanical Engineering graduate from OsloMet.
 
 - 🔭 I'm currently taking informatics courses at the University of Bergen, next year I'll be pursuing a masters in informatics.
 <!-- - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side. -->
-- 🔤 I'm experienced in Java, Haskell, C++, Python and iLogic (VB.NET).
 
 
 
