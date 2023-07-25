@@ -1,10 +1,10 @@
 ### Hey, I'm Kristian 🤙
 
-I'm a Mechanical Engineering graduate from OsloMet. 
+I'm a Mechanical Engineering graduate from OsloMet and a MSc student in Computer Science at UiB. 
 
 <!--After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.-->
 
-- 🔭 I'm currently taking informatics courses at the University of Bergen, next year I'll be pursuing a masters in informatics.
+<!--- 🔭 I'm currently pursuing a masters degree in computer science a.-->
 <!-- - 🌱 In preparation for my masters degree, I'm learning Algorithms and Data Structures on the side. -->
 
 
