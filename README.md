@@ -1,6 +1,6 @@
 ### Hey, I'm Kristian 🤙
-
-I'm a Mechanical Engineering graduate from OsloMet and a MSc student in Computer Science at UiB. 
+ 
+I'm a MSc student in Computer Science - Algorithms at UiB, and a Mechanical Engineering graduate from OsloMet
 
 <!--After my bachelor (and a years worth of informatics subjects), I'll be pursuing a masters degree in Informatics.-->
 
